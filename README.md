@@ -1,2 +1,2 @@
-# numberGame
-A java guess the number game
+# sumNumber
+Write the sum of two numbers
